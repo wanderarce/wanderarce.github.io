@@ -33,12 +33,12 @@
 		<div class="secao">
 			<h2>Dados Profissionais</h2>
 
-			<p><label>Empresa</label>AGETEC</p>
-			<p><label>Empresa</label>DijexWeb</p>
-			<p><label>Empresa</label>Rede Tendencia</p>
-			<p><label>Empresa</label>Unisys</p>
-			<p><label>Empresa</label>Brasil Telecom</p>
-			<p><label>Empresa</label>Teleperformance</p>
+			<p><label>Empresa</label> AGETEC</p>
+			<p><label>Empresa</label> DijexWeb</p>
+			<p><label>Empresa</label> Rede Tendencia</p>
+			<p><label>Empresa</label> Unisys</p>
+			<p><label>Empresa</label> Brasil Telecom</p>
+			<p><label>Empresa</label> Teleperformance</p>
 		</div>
 
 		<div class="secao">
