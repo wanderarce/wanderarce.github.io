@@ -1,11 +1,13 @@
-
+<style>
+*{font:12px;}
+</style>
 
 ### Formação
 
 <strong>Ensino Superior: </strong> IFMS (Instituto Federal de Mato Grosso do Sul)
 
 ### Experiências
-
+<hr/>
 <p><strong>Local: </strong>AGETEC</p>
 <p><strong>Período: </strong>30/05/2017</p>
 <p><strong>Função: </strong>Desenvolvedor de Sistemas</p>
