@@ -1,10 +1,10 @@
 
 
-###Formação
+### Formação
 
 <strong>Ensino Superior: </strong> IFMS (Instituto Federal de Mato Grosso do Sul)
 
-<h2>Experiências</h2>
+### Experiências
 
 <strong>Local: </strong>
 <strong>Período: </strong>
