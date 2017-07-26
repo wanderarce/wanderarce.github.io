@@ -1,6 +1,6 @@
-## Welcome my page
 
-<h2>Formação</h2>
+
+###Formação
 
 <strong>Ensino Superior: </strong> IFMS (Instituto Federal de Mato Grosso do Sul)
 
