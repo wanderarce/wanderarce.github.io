@@ -10,28 +10,21 @@
 	<body>
 		<h1>Currículo Vitae</h1>
 
-		<img src="http://br.gravatar.com/userimage/14935412/cef5ab9d2ae46b1f6371dddbc99f667e.jpg?size=200" alt="photo of Ademir" class="photo"/>
-				  		
-		<ul id="menu">
-			<li><a href="cv-resumido.html">Resumido</a></li>
-			<li class="ativo">Completo</li>
-		</ul>
 		
 		<div class="secao">
 			<h2>Dados Pessoais</h2>			
 				<div id="hcard-Ademir-Mazer-Jr" class="vcard">
-				 <span class="given-name">Ademir</span>
-				  <span class="additional-name">Mazer</span>
-				  <span class="family-name">Jr</span>
+				 <span class="given-name">Wander</span>
+				  <span class="additional-name">Fonseca</span>
+				  <span class="family-name">Arce</span>
 				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup>
 
-				 <a class="email" href="mailto:ademir.mazer.jr@gmail.com">ademir.mazer.jr@gmail.com</a>
-				 <a class="url" href="http://ademir.winponta.com.br">http://ademir.winponta.com.br</a>
-				
+				 <a class="email" href="mailto:wanderarce@yahoo.com.br">wanderarce@yahoo.com.br</a>
+				 			
 				<div class="adr">
-				  <span class="locality">Ponta Grossa</span>
+				  <span class="locality">Campo Grande</span>
 				, 
-				  <span class="region">Paraná</span>
+				  <span class="region">Mato Grosso do Sul</span>
 
 				 </div>
 				</div>
@@ -39,19 +32,20 @@
 
 		<div class="secao">
 			<h2>Dados Profissionais</h2>
-			
-			<p><label>Empresa</label>UTFPR</p>
-			<p><label>Empresa</label>Copel</p>
-			<p><label>Empresa</label>Winponta</p>
+
+			<p><label>Empresa</label>AGETEC</p>
+			<p><label>Empresa</label>DijexWeb</p>
+			<p><label>Empresa</label>Rede Tendencia</p>
+			<p><label>Empresa</label>Unisys</p>
+			<p><label>Empresa</label>Brasil Telecom</p>
+			<p><label>Empresa</label>Teleperformance</p>
 		</div>
 
 		<div class="secao">
 			<h2>Formação Acadêmica</h2>
 			
-			<p><label>Curso</label>Mestrando Engenharia de Produção</p>
-			<p><label>Curso</label>Especialista Linguagem Java</p>
-			<p><label>Curso</label>Especialista Ciências da Computação</p>
-			<p><label>Curso</label>Bacharel Informática</p>
+			<p><label>Curso</label>Tecnólogo em Sistemas para Internet</p>
+			
 		</div>
 
 		<div class="secao">
@@ -64,20 +58,16 @@
 				</tr>
 				</thead>
 				<tr class="par">
-					<td>Pontos de Função</td>
+					<td>Seleniun</td>
 					<td>40h</td>
 				</tr>
 				<tr class="impar">
-					<td>Testes de Software</td>
+					<td>Spring MVC</td>
 					<td>40h</td>
 				</tr>
 				<tr class="par">
-					<td>Ferramenta de Testes de Software</td>
+					<td>Angular</td>
 					<td>16h</td>
-				</tr>
-				<tr class="impar">
-					<td>Requisitos de Software</td>
-					<td>24h</td>
 				</tr>
 			</table>			
 		</div>
@@ -88,42 +78,15 @@
 				<thead>
 				<tr>
 					<th>Língua</th>
-					<th>Escrita</th>
-					<th>Fala</th>
-					<th>Leitura</th>
+					<th>Nível</th>
 				</tr>
 				</thead>
 				<tr class="par">
 					<td>Inglês</td>
-					<td class="bom">Bom</td>
-					<td class="bom">Bom</td>
-					<td class="otimo">Ótimo</td>
-				</tr>
-				<tr class="impar">
-					<td>Espanhol</td>
-					<td class="ruim">Ruim</td>
-					<td class="ruim">Ruim</td>
-					<td class="regular">Regular</td>
+					<td class="bom">Básico</td>
 				</tr>
 			</table>			
 		</div>
-
-		<form action="#" method="post">
-			<fieldset>
-			<legend>Entre em contato</legend>
-			<label for="nome">Nome</label>
-			<input type="text" name="nome"/>
-
-			<label for="nome">Email</label>
-			<input type="text" name="email"/>
-
-			<label for="nome">Mensagem</label>
-			<textarea name="msg"></textarea>
-
-			<input type="submit" value="enviar"/>
-			</fieldset>
-		</form>
-
 		
 		<div id="footnote">
 			<li id="1-fn">1 - Microformato <a href="#fn1" title="volte">^</a></li>
